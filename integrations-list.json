@@ -12,7 +12,7 @@
   "imageId": "puffer-finance.png",
   "appUrl": "https://puffer.fi/",
   "twitterUrl": "https://twitter.com/puffer_finance",
-  "tags": ["DeFi"],
+  "tags": ["DeFi", "Native Restaking"],
   "networks": ["ethereum"]
 },{
   "name": "Zeeverse",
